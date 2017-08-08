@@ -1,0 +1,8 @@
+/local/googletest-master/googletest/bld/CMakeFiles/install/local.dir
+/local/googletest-master/googletest/bld/CMakeFiles/list_install_components.dir
+/local/googletest-master/googletest/bld/CMakeFiles/rebuild_cache.dir
+/local/googletest-master/googletest/bld/CMakeFiles/edit_cache.dir
+/local/googletest-master/googletest/bld/CMakeFiles/install/strip.dir
+/local/googletest-master/googletest/bld/CMakeFiles/install.dir
+/local/googletest-master/googletest/bld/CMakeFiles/gtest_main.dir
+/local/googletest-master/googletest/bld/CMakeFiles/gtest.dir
