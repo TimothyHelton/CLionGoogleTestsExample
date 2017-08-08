@@ -28,7 +28,7 @@ protected:
 
   virtual void TearDown() {
     delete math;
-    math = NULL;
+    math = nullptr;
   }
 };
 
