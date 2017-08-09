@@ -51,3 +51,13 @@ INSTANTIATE_TEST_CASE_P(MathTests, TestMath,
                             std::make_tuple(2., -3., -1., -6.)
                         )
 );
+
+
+TEST(Vector, Equals) {
+  std::vector<double> a, b;
+
+  a = {1., 2., 3.};
+  b = {1., 2., 3.};
+  ASSERT_EQ(a, b);
+}
+
